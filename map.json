@@ -178,10 +178,10 @@
          "name":"Kachelebene 10",
          "offsetx":1.33333333333337,
          "offsety":1.33333333333337,
-         "opacity":0,
+         "opacity":0.58,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":"https:\/\/file-examples-com.github.io\/uploads\/2017\/11\/file_example_MP3_1MG.mp3"
                 }],
