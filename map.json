@@ -183,7 +183,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":".\/test.mp3"
+                 "value":"http:\/\/ecast.myautodj.com:1380\/stream"
                 }],
          "type":"tilelayer",
          "visible":true,
