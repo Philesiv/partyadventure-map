@@ -178,12 +178,12 @@
          "name":"Kachelebene 10",
          "offsetx":1.33333333333337,
          "offsety":1.33333333333337,
-         "opacity":0.58,
+         "opacity":0.35,
          "properties":[
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"http:\/\/ecast.myautodj.com:1380\/stream"
+                 "value":".\/test.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -196,12 +196,12 @@
          "height":34,
          "id":20,
          "name":"Kachelebene 11",
-         "opacity":1,
+         "opacity":0.33,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"testroom"
+                 "name":"lowPassFilter",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
