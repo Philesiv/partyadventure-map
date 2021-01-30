@@ -183,7 +183,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":".\/test.mp3"
+                 "value":"http:\/\/s1.radionetz.de:8000\/purefm-by.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
