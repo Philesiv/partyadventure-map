@@ -201,7 +201,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/cast.attacker.one:8000\/stream"
+                 "value":"https:\/\/cast.attacker.one:8443\/stream"
                 }],
          "type":"tilelayer",
          "visible":true,
