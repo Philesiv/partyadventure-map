@@ -274,6 +274,11 @@
                  "name":"lowPassFilter",
                  "type":"int",
                  "value":500
+                }, 
+                {
+                 "name":"volume",
+                 "type":"int",
+                 "value":50
                 }],
          "type":"tilelayer",
          "visible":true,
