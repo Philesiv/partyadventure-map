@@ -117,7 +117,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/js13kgames.com\/games\/radius-raid\/index.html"
+                 "value":"https:\/\/js13kgames.com\/games\/radius-raid\/index.html"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
