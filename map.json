@@ -115,7 +115,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"game",
                  "type":"string",
                  "value":"https:\/\/js13kgames.com\/games\/radius-raid\/index.html"
                 }, 
